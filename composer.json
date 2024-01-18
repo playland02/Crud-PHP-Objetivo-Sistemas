@@ -1,0 +1,15 @@
+{
+    "name": "devjunior/desafioobj",
+    "autoload": {
+        "psr-4": {
+            "Devjunior\\Desafioobj\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "playland02",
+            "email": "jezreeljunior@gmail.com"
+        }
+    ],
+    "require": {}
+}
