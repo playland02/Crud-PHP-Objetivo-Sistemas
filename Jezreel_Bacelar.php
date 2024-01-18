@@ -175,7 +175,7 @@ if (isset($_GET['delete'])) {
         <div class="row py-lg-5">
             <div class="col-lg-7 mx-auto">
 
-                <form method="post" action="index.php">
+                <form method="post" action="Jezreel_Bacelar.php">
 
                     <div class="mb-3">
                         <label for="" class="form-label">Nome:</label>
@@ -234,7 +234,7 @@ if (isset($_GET['delete'])) {
                                 <div class='d-flex justify-content-between align-items-center mt-4'>
                                     <div class='btn-group'>
                                         <a type='button' class='btn btn-sm btn-primary' href='#'>Editar</a>
-                                        <a type='button' class='btn btn-sm btn-danger' href='index.php?delete={$href_delete}'>Excluir</a>
+                                        <a type='button' class='btn btn-sm btn-danger' href='Jezreel_Bacelar.php?delete={$href_delete}'>Excluir</a>
                                     </div>
                                     <small class='text-body-secondary'>Cadastrado em 12/01/2024</small>
                                 </div>
